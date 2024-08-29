@@ -32,6 +32,13 @@ If you're interested in collaborating or need support on your digital journey, f
 - [LinkedIn Profile](https://www.linkedin.com/in/davinderprjp)
 - [Youtube Channels](www.youtube.com/@davinderparjapat)
 
+
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ## Projects & Repositories
 
 Check out my repositories for resources and tools related to the Passion Funnel Framework and other digital marketing insights.
